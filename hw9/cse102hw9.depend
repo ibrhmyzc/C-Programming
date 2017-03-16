@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1482408300 source:c:\users\legen\onedrive\bil102\cse102hw9\main.c
+	<stdio.h>
+	"DoubleList.h"
+
+1482516599 source:c:\users\legen\onedrive\bil102\cse102hw9\circularlist.c
+	"CircularList.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1482351694 c:\users\legen\onedrive\bil102\cse102hw9\doublelist.h
+
+1482407663 source:c:\users\legen\onedrive\bil102\cse102hw9\doublelist.c
+	"DoubleList.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1482516580 c:\users\legen\onedrive\bil102\cse102hw9\circularlist.h
+
